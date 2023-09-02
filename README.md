@@ -52,3 +52,7 @@ This app can also be deployed on AWS using the AWS CDK. Refer to the `cdk-ecs` f
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## DEMO
+<img width="566" alt="image" src="https://github.com/fyhao/streamlit-hf-cdk/assets/1223477/48b9d375-c7ea-449a-be57-01e15a460886">
+
